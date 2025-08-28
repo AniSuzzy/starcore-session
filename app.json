@@ -2,8 +2,8 @@
 {
     "name": "star",
     "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
-    "repository": "https://github.com/XdKing2/star-xd",
-    "logo": "https://i.ibb.co/FLDpmJqt/malvin-xd.jpg",
+    "repository": "https://github.com/suzzytech/botsite",
+    "logo": "https://i.ibb.co/TMV74vD3/Profile.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "buildpacks": [
       {
